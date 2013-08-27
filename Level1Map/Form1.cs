@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Level1Map
 {
+    // comment made by nick
     public partial class Form1 : Form
     {
         public Form1()
